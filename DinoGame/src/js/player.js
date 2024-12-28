@@ -7,7 +7,7 @@ class Player {
         this.color = color;
         this.dy = 0; // Vertical speed
         this.jumpHeight = 15;
-        this.gravity = 0.8;
+        this.gravity = 1.2; // Augmenté pour une descente plus rapide
         this.grounded = true;
     }
 
