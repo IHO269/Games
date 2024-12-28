@@ -1,0 +1,26 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+
+# Dépendances
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Fichiers de build
+dist/
+build/
+
+# Fichiers de log
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
+
+# Fichiers de cache
+.cache/
